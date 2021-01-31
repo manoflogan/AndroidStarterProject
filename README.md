@@ -4,4 +4,5 @@ This is an Android starter project in Kotlin which leverages Dagger, Retrofit, a
 
 **TODO***
 
-Set up unit testing, and ui testing models with dagger.
+* Set up recycler view support
+* Set up unit testing, and espresso testing with dagger
